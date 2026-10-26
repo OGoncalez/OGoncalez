@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminal.svg" alt="Terminal: Otavio Gonçalez, Desenvolvimento de Sistemas, disponível para estágio em desenvolvimento" width="640">
+  <img src="terminal-v2.svg" alt="Terminal: Otavio Gonçalez, Desenvolvimento de Sistemas, disponível para estágio em desenvolvimento" width="640">
 </p>
 
 ## Otavio Gonçalez

@@ -4,11 +4,11 @@
 
 ## Otavio Gonçalez
 
-Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI (conclusão em dezembro de 2026), com projetos em web, mobile, IoT e segurança da informação.
+Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI (conclusão em dezembro de 2026), com projetos em web, mobile, IoT e segurança da informação. Programo desde os 14 anos.
 
 Minha base em programação veio da robótica. Durante dois anos, na equipe Taiada Nexus, programei robôs LEGO SPIKE em blocos e Python, com funções próprias de controle e correção de movimento, curvas precisas e localização. Participei de competições, incluindo a fase regional, e ministrei palestras sobre robótica na escola.
 
-Tenho interesse por soluções que integram software e hardware, como IoT e visão computacional, e por segurança e Web3.
+Meu objetivo é seguir carreira em cibersegurança. Por isso, hoje busco uma oportunidade na área de desenvolvimento, para consolidar a base em código e aplicar segurança desde a construção dos sistemas. Projetos como o LedgerSight, que combina visão computacional, autenticação em múltiplas etapas e blockchain, já seguem nessa direção. Sou também entusiasta de criptomoedas e Web3, áreas em que a segurança é fundamental.
 
 ### Projetos
 
@@ -33,7 +33,7 @@ Tenho interesse por soluções que integram software e hardware, como IoT e vis�
 
 ### Objetivo
 
-Atuar como estagiário em Desenvolvimento de Sistemas, contribuindo em projetos reais e evoluindo junto com a equipe.
+Atuar na área de desenvolvimento de sistemas, contribuindo em projetos reais e evoluindo junto com a equipe, com a meta de construir carreira em cibersegurança.
 
 ### Contato
 

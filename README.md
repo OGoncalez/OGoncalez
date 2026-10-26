@@ -1,27 +1,40 @@
 <p align="center">
-  <img src="terminal.svg" alt="Terminal: Otavio Gonçalez, dev em formação, procurando estágio em desenvolvimento" width="640">
+  <img src="terminal.svg" alt="Terminal: Otavio Gonçalez, Desenvolvimento de Sistemas, disponível para estágio em desenvolvimento" width="640">
 </p>
 
 ## Otavio Gonçalez
 
-Comecei a programar para valer na robótica da escola. Foram dois anos na equipe Taiada Nexus, programando robôs LEGO SPIKE: primeiro em blocos, depois com funções minhas em Python para o robô andar reto, fazer curva certa e saber onde estava. Chegamos à fase regional e eu acabei palestrando sobre isso na escola.
+Estudante do curso técnico em Desenvolvimento de Sistemas no SENAI (conclusão em dezembro de 2026), com projetos em web, mobile, IoT e segurança da informação.
 
-Desde então o que mais me interessa é código que mexe com o mundo físico: robô, sensor, câmera. Hoje faço o técnico em Desenvolvimento de Sistemas no SENAI (termino em dezembro de 2026) e, entre um projeto e outro, fui parar em segurança e Web3.
+Minha base em programação veio da robótica. Durante dois anos, na equipe Taiada Nexus, programei robôs LEGO SPIKE em blocos e Python, com funções próprias de controle e correção de movimento, curvas precisas e localização. Participei de competições, incluindo a fase regional, e ministrei palestras sobre robótica na escola.
 
-### O que já construí
+Tenho interesse por soluções que integram software e hardware, como IoT e visão computacional, e por segurança e Web3.
 
-- **[LedgerSight](https://github.com/OGoncalez/LedgerSight)**: desafio da Petrobras no Grand Prix SENAI 2026. Uma câmera que censura celular, tela, documento e rosto em tempo real, e um acesso em 3 etapas com blockchain. Idealizei e fiz o aplicativo e o sistema web. (Python, FastAPI, OpenCV, Web3.py)
-- **[SafeCore](https://github.com/Mxthxzy000/SafeCore)**: monitoramento ambiental industrial com sensores IoT e alertas antes de a situação virar risco. Fiz o app em Flutter.
-- **[SOUL](https://github.com/Mxthxzy000/projeto-soul-dashboard)**: painel para acompanhar a logística de uma operação. Fiquei no front-end e no banco, com foco na página de e-commerce. (React, Vite, Supabase)
-- **[Cliq](https://github.com/OGoncalez/Cliq)**: plataforma de streaming em PHP e MySQL. Liderei o grupo e escrevi o sistema inteiro, do login à busca por caracteres.
-- **[Thermal](https://github.com/OGoncalez/thermal)**: Arduino lendo temperatura e outros sensores, gravando no Supabase e mostrando tudo num dashboard.
+### Projetos
 
-### Fora do código
+| Projeto | Descrição e atuação | Tecnologias |
+| --- | --- | --- |
+| [LedgerSight](https://github.com/OGoncalez/LedgerSight) | Desafio proposto pela Petrobras no Grand Prix SENAI 2026. Aplicativo que detecta e censura celulares, telas, documentos e rostos em tempo real, e sistema web de segurança em 3 etapas com blockchain. Idealização e desenvolvimento do aplicativo e do sistema web. | Python, FastAPI, OpenCV, Web3.py, Ethereum |
+| [SafeCore](https://github.com/Mxthxzy000/SafeCore) | Solução IoT de monitoramento ambiental industrial, com alertas preventivos (cenário simulado no SENAI). Desenvolvimento do aplicativo. | Flutter, Dart, sensores IoT |
+| [SOUL](https://github.com/Mxthxzy000/projeto-soul-dashboard) | Software responsivo e modular para rastreamento de sistemas logísticos. Atuação no front-end e na base de dados, com foco na página de e-commerce. | React, Vite, Supabase |
+| [Cliq](https://github.com/OGoncalez/Cliq) | Plataforma de streaming com login, catálogo, player, perfil e busca inteligente. Liderança da equipe e desenvolvimento de todo o sistema. | PHP, MySQL, HTML, CSS |
+| [Thermal](https://github.com/OGoncalez/thermal) | Captura de leituras de temperatura e outros sensores com Arduino, registro em banco de dados e visualização em dashboard. | C++, Arduino, Supabase, HTML, JavaScript |
 
-De 2020 a 2026 trabalhei na Decole3D, com impressão 3D de peças, vendas e orçamentos. Em 2025 ganhei o prêmio de Equidade e Inovação do Dev Experience. Meu inglês é C1 (certificação MET).
+### Reconhecimentos e formação complementar
 
-### Agora
+- Prêmio de Equidade e Inovação, Dev Experience (2025)
+- Inglês avançado (C1), certificação MET
+- Python Essentials I (Cisco) e Python com lógica de programação (SESI Caçapava)
 
-Procuro um estágio em desenvolvimento onde eu possa pegar problema de verdade e crescer junto com o time.
+### Experiência
+
+- Programador, equipe de robótica Taiada Nexus (2 anos)
+- Auxiliar geral, Decole3D (2020 a 2026): impressão 3D de peças, vendas e orçamentos
+
+### Objetivo
+
+Atuar como estagiário em Desenvolvimento de Sistemas, contribuindo em projetos reais e evoluindo junto com a equipe.
+
+### Contato
 
 [LinkedIn](https://www.linkedin.com/in/ogoncalez/) · otavio.goncalezp@gmail.com

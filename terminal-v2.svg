@@ -30,7 +30,7 @@ text{white-space:pre;font-family:'JetBrains Mono','Fira Code',Consolas,'DejaVu S
 <text x="28" y="134" clip-path="url(#k2)" class="cmd"><tspan class="p">$</tspan> cat stack.txt</text>
 <text x="28" y="162" clip-path="url(#k3)" class="out">Python · React · Flutter · PHP · C++ / Arduino</text>
 <text x="28" y="190" clip-path="url(#k4)" class="cmd"><tspan class="p">$</tspan> ls projetos/</text>
-<text x="28" y="218" clip-path="url(#k5)" class="out">LedgerSight  SafeCore  SOUL  Cliq  Thermal</text>
+<text x="28" y="218" clip-path="url(#k5)" class="out">LedgerSight | SafeCore | SOUL | Cliq | Thermal | Separê</text>
 <text x="28" y="246" clip-path="url(#k6)" class="cmd"><tspan class="p">$</tspan> echo $status</text>
 <text x="28" y="274" clip-path="url(#k7)" class="out">Disponível para estágio em desenvolvimento</text>
 <rect class="cur" x="410.0" y="261" width="9" height="18" fill="#7ee787"/>
